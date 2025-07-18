@@ -1,5 +1,6 @@
 create database dreamhome;
 use dreamhome;
+
 DROP TABLE IF EXISTS registration;
 DROP TABLE IF EXISTS viewing;
 DROP TABLE IF EXISTS propertyForRent;
